@@ -11,6 +11,6 @@ platform :rbx do
   # Test::Unit compatibility layer like 4.x, so it doesn't work with Test::Unit
   # at all (see e.g. https://github.com/seattlerb/minitest/issues/358). So, I'm
   # holding this one back until we find out what's going on.
-  gem "rubysl-test-unit", "2.0.1"
+  gem "rubysl-test-unit", "2.0.3"
   gem "psych", "~> 2.0"
 end
