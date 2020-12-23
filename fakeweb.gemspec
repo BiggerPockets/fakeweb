@@ -60,7 +60,7 @@ Gem::Specification.new do |s|
     # SimpleCov depends on multi_json, which as of 1.7.3 prints a
     # warning when the Ruby 1.9 stdlib is the only available backend.
     # See https://github.com/intridea/multi_json/commit/e7438e7ba2.
-    s.add_development_dependency "json",              ["~> 1.7"]
+    s.add_development_dependency "json",              ["~> 2.5"]
   end
 
 
